@@ -1,4 +1,4 @@
-# Atributos Dinâmicos
+# Attributes
 
 ## 📦 Install
 
