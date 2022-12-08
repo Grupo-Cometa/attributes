@@ -10,5 +10,3 @@ $empresa->nome = 'Grupo Cometa';
 $empresa->slogan = 'Paixão em Servir';
 $empresa->endereco->cidade = 'Cáceres';
 $empresa->endereco->estado = 'Mato Grosso';
-
-print_r($empresa);
