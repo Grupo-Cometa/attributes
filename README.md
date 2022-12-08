@@ -16,14 +16,13 @@ composer require grupo-cometa/attributes
 
 require __DIR__.'/vendor/autoload.php';
 
-use PedroSouza\Attributes;
+use Cometa\Attributes;
 
-$attribute = new Attributes();
+$empresa = new Attributes;
 
-$attribute->name = 'Pedro';
-$attribute->endereco->cidade = 'Cáceres';
-$attribute->endereco->uf = 'MT';
-
-print_r($attribute);
+$empresa->nome = 'Grupo Cometa';
+$empresa->slogan = 'Paixão em Servir';
+$empresa->endereco->cidade = 'Cáceres';
+$empresa->endereco->estado = 'Mato Grosso';
 
 ```
