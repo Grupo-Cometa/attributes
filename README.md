@@ -30,6 +30,5 @@ $empresa->endereco->estado = 'Mato Grosso';
 ## Example
 
 <h1 align="center">
-  <br>
-  <a href="https://nuclei.projectdiscovery.io"><img src="result.png" width="300px" alt="Exemplo"></a>
+  <img src="result.png" width="300px" alt="Exemplo">
 </h1>
