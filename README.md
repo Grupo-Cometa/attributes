@@ -26,9 +26,7 @@ $empresa->endereco->cidade = 'Cáceres';
 $empresa->endereco->estado = 'Mato Grosso';
 
 ```
-
-## Example
-
+### Result
 <h1 align="center">
   <img src="result.PNG" width="300px" alt="Exemplo">
 </h1>
