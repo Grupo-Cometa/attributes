@@ -26,3 +26,10 @@ $empresa->endereco->cidade = 'Cáceres';
 $empresa->endereco->estado = 'Mato Grosso';
 
 ```
+
+## Example
+
+<h1 align="center">
+  <br>
+  <a href="https://nuclei.projectdiscovery.io"><img src="result.png" width="300px" alt="Exemplo"></a>
+</h1>
