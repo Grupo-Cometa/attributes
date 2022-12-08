@@ -30,5 +30,5 @@ $empresa->endereco->estado = 'Mato Grosso';
 ## Example
 
 <h1 align="center">
-  <img src="result.png" width="300px" alt="Exemplo">
+  <img src="result.PNG" width="300px" alt="Exemplo">
 </h1>
