@@ -1,6 +1,6 @@
 <?php
 
-namespace Cometa;
+namespace GrupoCometa;
 
 use stdClass;
 

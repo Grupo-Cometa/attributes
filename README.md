@@ -16,7 +16,7 @@ composer require grupo-cometa/attributes
 
 require __DIR__.'/vendor/autoload.php';
 
-use Cometa\Attributes;
+use GrupoCometa\Attributes;
 
 $empresa = new Attributes;
 
